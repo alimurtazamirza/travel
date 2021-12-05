@@ -1,0 +1,12 @@
+.rdt_Wrapper header {
+  display: block;
+}
+.pointer-change {
+  cursor: pointer;
+}
+/* .media {
+  justify-content: center;
+} */
+.textarea-height {
+  height: 200px !important;
+}
